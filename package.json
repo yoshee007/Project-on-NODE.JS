@@ -1,0 +1,19 @@
+{
+  "name": "server_node.js",
+  "version": "1.0.0",
+  "description": "new server node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "(node,)",
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "author": "Maxim Cherepiy, <maxim.cherepiy@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
